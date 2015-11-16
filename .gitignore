@@ -4,6 +4,8 @@ Thumbs.db
 
 Cubes2/Library/*
 Cubes2/Temp/*
+Cubes2/builds/*
+
 *.csproj
 *.sln
 *.pidb
