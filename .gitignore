@@ -14,3 +14,4 @@ Cubes2/builds/*
 
 *.csprog
 *.orig
+/.project
