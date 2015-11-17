@@ -2,7 +2,7 @@
 #ignore thumbnails created by windows
 Thumbs.db
 
-Cubes2/Library/*
+#Cubes2/Library/*
 Cubes2/Temp/*
 Cubes2/builds/*
 
@@ -14,4 +14,5 @@ Cubes2/builds/*
 
 *.csprog
 *.orig
-/.project
+#/.project
+
